@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Caio-Ariel
 - 👀 Publicarei meus projetos e programas neste site
-- 🌱 Programadoe iniciante
+- 🌱 Programador iniciante
 - 💞️ Procurando sempre aprender
 - 📫 meu email para contato: caioarielmb@gmail.com / meu número para contato: 77 981275751
 
